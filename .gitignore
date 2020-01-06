@@ -1,0 +1,10 @@
+*.a
+*.compiled
+*.dll
+*.dylib
+*.exe
+*.o
+*.ppu
+*.res
+*.rst
+*.so
